@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <title>My Test Page</title>
+  </head>
+  <body>
+    <h1>My Test Page</h1>
+    <p id="message"></p>
+
+    <script>
+      document.getElementById("message").innerHTML = "Hello, GitHub Pages!";
+    </script>
+  </body>
+</html>
